@@ -1,0 +1,9 @@
+Django>=4.2
+django-extensions>=4.1
+djangorestframework
+djoser
+Pillow
+psycopg2-binary
+django-filter
+gunicorn
+six
