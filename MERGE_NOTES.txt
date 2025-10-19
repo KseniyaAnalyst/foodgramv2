@@ -1,0 +1,6 @@
+Собранный проект = база из foodgram-project-react-master + ВАШИ каталоги backend/ и infra/.
+Проверьте:
+1) backend/foodgram/settings.py — ALLOWED_HOSTS, DEBUG, DATABASES (env-переменные).
+2) infra/.env (или .env.example) — заполните пароли/токены.
+3) frontend — используется из базового архива. При необходимости пересоберите.
+Команда локального запуска: docker compose up -d --build
